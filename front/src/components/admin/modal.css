@@ -1,0 +1,35 @@
+.modal-container{
+    position: relative;
+}
+.close-icon{
+    position: absolute;
+    top: -10px;
+    cursor: pointer;
+    right: -10px;
+}
+.title{
+    font-size: 20px;
+    font-weight: 600;
+}
+.button-wrap{
+    display: flex;
+    gap: 10px;
+}
+.event-close-icon{
+    position: absolute;
+    top: 10px;
+    cursor: pointer;
+    right: 10px;
+
+}
+.event-title{
+    
+    font-size: 15px;
+    font-weight: 400;
+    margin: 30px;
+}
+.event-label{
+    font-weight: 600;
+    font-size: 16px;
+
+}
